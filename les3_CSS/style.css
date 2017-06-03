@@ -1,0 +1,25 @@
+div	{
+	width: 50%;
+	height: 300px;
+}
+
+.left {
+	background-color: #ccc;
+	float: left;
+}
+
+.right {
+	background-color: #999;
+	float: left;
+}
+
+.parent {
+	width: 50%;
+	margin: 20px auto;
+	padding: 10px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+}

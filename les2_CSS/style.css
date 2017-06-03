@@ -1,0 +1,33 @@
+@import "headline4.css";
+
+
+html:lang(en) {
+	background-color: #000;
+}
+
+h1 {
+	color: blue;
+}
+
+h2,
+h3 {
+	color: #fff;
+}
+
+.title {
+	font-size: 50px;
+}
+
+.title:after {
+	content: " azazazaza@@@@@";
+	color: white;
+}
+
+.container {
+	color: #fff;
+	text-align: center;
+}
+
+.parrent {
+	display: inline;
+}

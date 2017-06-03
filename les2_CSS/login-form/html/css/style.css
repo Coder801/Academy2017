@@ -1,0 +1,7 @@
+:root {
+  --primaryColor: #0166ff;
+  --secondaryColor: white;
+  --textColor: #939393;
+  --headlineColor: var(--secondaryColor);
+  /* You can use css varibles */
+}
